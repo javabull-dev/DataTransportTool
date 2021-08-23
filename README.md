@@ -7,7 +7,7 @@
  - java swing
  - beauty_inf
 
-## 使用环境
+## 编译环境
 windows or linux
 jdk 1.7-
 
