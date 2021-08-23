@@ -1,0 +1,15 @@
+Manifest-Version: 1.0
+Implementation-Title: client
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: Jacker
+Specification-Title: client
+Implementation-Vendor-Id: cn.ljpc
+Class-Path: libs/commons-beanutils-1.9.3.jar libs/commons-logging-1.2.
+ jar libs/commons-collections-3.2.2.jar libs/owner-java8-1.0.10.jar li
+ bs/owner-1.0.10.jar libs/hutool-all-5.4.1.jar
+Build-Jdk: 1.8.0_211
+Specification-Version: 0.0
+Implementation-URL: http://maven.apache.org
+Created-By: Maven Integration for Eclipse
+Main-Class: cn.ljpc.client.App
+
