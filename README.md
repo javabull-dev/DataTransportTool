@@ -12,3 +12,5 @@ windows or linux
 jdk 1.7-
 
 可配合[DataTool](https://github.com/JavaBull-dev/DataTool)实现电脑与安卓传输数据
+
+将jar转exe可查看[exe4j使用教程 jar转exe](https://www.cnblogs.com/cnsdhzzl/p/9543153.html)
